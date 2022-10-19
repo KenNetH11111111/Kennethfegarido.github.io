@@ -17,3 +17,13 @@ body{
     left: 50%;
     top: 60%;
 }
+.left{
+    background-color: #1DA1F2;
+    width: 200px;
+    height: 100%;
+    float: left;
+}
+.right{
+    width: 450px;
+    float: left;
+}
