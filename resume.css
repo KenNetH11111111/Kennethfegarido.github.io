@@ -9,7 +9,7 @@ body{
     margin: 0px; padding: 0px; font-family: 'Montserrat', sans-serif;
 }
 .main{
-    background-color: white;
+    background-color: rgb(27, 173, 149);
     height: auto;
     width: 650px;
     position: absolute;
