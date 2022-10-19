@@ -71,3 +71,15 @@ body{
     padding-right: 10px!important;
     vertical-align: sub;
 }
+}
+.skill-container{
+    width: 90%;
+    background-color: #4d4d4d;
+    margin: 0px 10px;
+}
+.skill{
+    text-align: right;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+}
