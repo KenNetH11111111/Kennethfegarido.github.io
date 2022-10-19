@@ -27,3 +27,11 @@ body{
     width: 450px;
     float: left;
 }
+.profile-img{
+    background-color: #ddd;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    border: 5px solid #f799ea;
+    box-shadow: 6px 7px 9px 5px #2e271d73;
+}
