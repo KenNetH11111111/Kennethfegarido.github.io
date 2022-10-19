@@ -95,3 +95,25 @@ body{
     width: 85%;
     background-color: white;
 }
+}
+.jquery{
+    width: 80%;
+    background-color: white;
+}
+.web {
+    width: 85%;
+    background-color: white;
+}
+.gra{
+    width: 70%;
+    background-color: white;
+}
+.icons2{
+    padding: 18px 10px;
+}
+.name-div{
+    padding: 86px 0px 40px 55px;
+    text-align: center;
+    letter-spacing: 3px;
+    height: 70px;
+}
