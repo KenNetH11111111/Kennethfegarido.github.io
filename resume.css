@@ -28,12 +28,12 @@ body{
     float: left;
 }
 .profile-img{
-    background-color: #ddd;
+    background-color: rgb(219, 203, 56);
     border-radius: 50%;
     margin-bottom: 20px;
     margin-left: 60px;
-    border: 5px solid #f799ea;
-    box-shadow: 6px 7px 9px 5px #2e271d73;
+    border: 5px solid #167726;
+    box-shadow: 6px 7px 9px 5px #bea58173;
 }
 .profile-img img{
     width: 100%;
