@@ -42,3 +42,12 @@ body{
 .box-1{
     position: relative;
 }
+}
+.heading{
+    background-color: #4d4d4d;
+    padding: 10px;
+    color: #fbb03b;
+    text-align: left;
+    padding-left: 20px;
+    margin-right: -15px;
+}
