@@ -45,7 +45,6 @@ body{
     left: 50px;
     
 }
-}
 .heading{
     background-color: #4d4d4d;
     padding: 10px;
@@ -74,7 +73,6 @@ body{
     padding-right: 10px!important;
     vertical-align: sub;
 }
-}
 .skill-container{
     width: 90%;
     background-color: #4d4d4d;
@@ -98,7 +96,7 @@ body{
     width: 85%;
     background-color: white;
 }
-}
+
 .jquery{
     width: 80%;
     background-color: white;
