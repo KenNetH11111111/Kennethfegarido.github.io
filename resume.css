@@ -35,6 +35,7 @@ body{
     border: 5px solid #167726;
     box-shadow: 6px 7px 9px 5px #bea58173;
     position: relative;
+    left: 100px;
 }
 .profile-img img{
     width: 100%;
