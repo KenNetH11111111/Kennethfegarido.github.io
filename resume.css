@@ -17,6 +17,11 @@ body{
     right: 50%;
     top: 60%;
 }
+.main{
+    Position: relative
+    right: 50px;
+
+}
 .left{
     background-color: #0cdd40;
     width: 200px;
